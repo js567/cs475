@@ -1,0 +1,13 @@
+Node   1 entered DoOneLocalAutocorrelation( )
+Node   2 entered DoOneLocalAutocorrelation( )
+Node   3 entered DoOneLocalAutocorrelation( )
+Node   4 entered DoOneLocalAutocorrelation( )
+Node   5 entered DoOneLocalAutocorrelation( )
+Node   6 entered DoOneLocalAutocorrelation( )
+Node   7 entered DoOneLocalAutocorrelation( )
+Node   8 entered DoOneLocalAutocorrelation( )
+Node   9 entered DoOneLocalAutocorrelation( )
+Node  10 entered DoOneLocalAutocorrelation( )
+Node   0 entered DoOneLocalAutocorrelation( )
+Node  11 entered DoOneLocalAutocorrelation( )
+ 12 processors,    8388608 elements,   3845.61 mega-autocorrelations computed per second

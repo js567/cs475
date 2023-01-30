@@ -1,0 +1,3 @@
+Node   1 entered DoOneLocalAutocorrelation( )
+Node   0 entered DoOneLocalAutocorrelation( )
+  2 processors,    8388608 elements,    568.89 mega-autocorrelations computed per second
